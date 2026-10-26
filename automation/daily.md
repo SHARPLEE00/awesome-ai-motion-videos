@@ -15,7 +15,7 @@ Where to look, in this order:
 
 To check a post: `curl -s https://api.fxtwitter.com/<handle>/status/<id>` gives the full text, author, date and media.
 
-For each piece you pick, write an entry into a temp file `/tmp/awesome-cands.json` (a JSON array):
+For each piece you pick, write an entry into a temp file `automation/tmp/cands.json` (a JSON array):
 `{ "handle", "id", "title", "titleZh", "category", "models": [...] }`
 - `title`: short English title describing what it is (not the creator's hype). `titleZh`: natural Chinese title.
 - `category`: `motion` (videos, launch films, animation), `3d` (3D scenes, worlds), `interactive` (games, playable or explorable web pages, tools), `comparison` (same prompt across models).
@@ -23,7 +23,7 @@ For each piece you pick, write an entry into a temp file `/tmp/awesome-cands.jso
 - Add `"prompt"` and `"promptUrl"` only when the creator published the exact prompt (in the post or their own reply); copy it verbatim.
 - For posts you looked at and rejected, add `{ "handle", "id", "reject": "<short reason>" }` so they are not checked again.
 
-Then run `node scripts/add.mjs /tmp/awesome-cands.json`. It fetches the facts itself, validates, and rebuilds the READMEs.
+Then run `node scripts/add.mjs automation/tmp/cands.json`. It fetches the facts itself, validates, and rebuilds the READMEs.
 
 If at least one piece was added: `git add -A && git commit -m "Add <n> pieces (<YYYY-MM-DD>)" && git push`. If only rejects or leads changed, commit those too with message "Update review lists".
 

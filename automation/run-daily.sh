@@ -2,7 +2,7 @@
 # Runs the daily collection with Claude Code. Installed by automation/install.sh.
 set -euo pipefail
 cd "$(dirname "$0")/.."
-mkdir -p automation/logs
+mkdir -p automation/logs automation/tmp
 log="automation/logs/$(date +%F).log"
 {
   echo "== $(date)"
