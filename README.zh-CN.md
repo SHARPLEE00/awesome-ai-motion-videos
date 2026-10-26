@@ -1,6 +1,8 @@
 <!-- 由 scripts/build.mjs 根据 data/videos.json 生成，请改数据，不要直接改这里。 -->
 <div align="center">
 
+<a href="https://lookbk.dev/skills?utm_source=github&utm_medium=banner&utm_campaign=awesome-ai-motion-videos"><img src="media/cover.png" alt="Awesome AI 动效视频合集" width="100%"></a>
+
 # Awesome AI 动效视频合集
 
 AI 编程模型用代码做出来的动效、发布片、3D 世界和小游戏，从 X 收集，附署名和提示词。
