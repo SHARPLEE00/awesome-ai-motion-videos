@@ -17,3 +17,7 @@ Then run `node scripts/build.mjs`, which checks every entry and regenerates both
 ## Fix or remove an entry
 
 See [MEDIA-RIGHTS.md](MEDIA-RIGHTS.md).
+
+## How the list is kept up to date
+
+A scheduled job (`automation/`) runs once a day. It reviews open submissions first, then earlier leads, then recent public posts, adds the pieces that qualify through `scripts/add.mjs`, and closes each submission with a note saying whether it was added. Posts it turns down are recorded in `data/rejected.json` with the reason, so they aren't reviewed twice. To appeal a decision, open an issue.
