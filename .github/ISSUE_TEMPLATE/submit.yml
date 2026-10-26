@@ -1,0 +1,27 @@
+name: Submit a piece
+description: Suggest an AI-made video or animation for the list
+title: "[submit] "
+labels: [submission]
+body:
+  - type: input
+    id: url
+    attributes:
+      label: Post link
+      description: The original post on X (https://x.com/<handle>/status/<id>)
+    validations:
+      required: true
+  - type: input
+    id: model
+    attributes:
+      label: Model
+      description: e.g. Claude Opus 5.5, Kimi K3.1, GPT-6 Astra
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options: [Motion graphics & launch videos, 3D scenes & worlds, Games & interactive, Model comparison]
+  - type: textarea
+    id: prompt
+    attributes:
+      label: Published prompt (optional)
+      description: Only if the creator posted it publicly; include where.
