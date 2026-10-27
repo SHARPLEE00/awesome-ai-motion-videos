@@ -2407,5 +2407,137 @@
     "text": "This video inspired me to really push Opus 5.5 and test its limits. \n\nI followed the general workflow Donald described here and the results are great",
     "thumb": "https://pbs.twimg.com/amplify_video_thumb/2103081744408657920/img/AqJ7e2EYc2kKdp9C?format=webp&name=medium",
     "duration": 156.7
+  },
+  {
+    "id": "2103472385563459833",
+    "handle": "shneural",
+    "name": "kirill sh",
+    "url": "https://x.com/shneural/status/2103472385563459833",
+    "date": "2026-09-25",
+    "title": "Claude Code session turned into a Blender-rendered film",
+    "titleZh": "把 Claude Code 会话做成 Blender 渲染短片",
+    "category": "motion",
+    "models": [
+      "Opus 5.5"
+    ],
+    "text": "a lot of people asked how Opus 5.5 made this, so i had Opus turn the Claude Code session into a video\n\none prompt and it just went: wrote its own python engine, did the 3D shot in Blender, made the music, rendered all 900 frames\n\n1h 32m, $81 at api prices",
+    "thumb": "https://pbs.twimg.com/ext_tw_video_thumb/2103471969773481984/pu/img/WKWpzEYKgWNhXMPX.jpg",
+    "duration": 56.3
+  },
+  {
+    "id": "2103374034943852667",
+    "handle": "Ishaaqahamed",
+    "name": "Ishaaq Ahamed",
+    "url": "https://x.com/Ishaaqahamed/status/2103374034943852667",
+    "date": "2026-09-25",
+    "title": "One-prompt motion video with audio",
+    "titleZh": "一条提示词生成的带音效动效视频",
+    "category": "motion",
+    "models": [
+      "Opus 5.5"
+    ],
+    "text": "opus 5.5 is f*cking crazy for motion video's\n\n0 after effects, everything in done by claude!\n\n1 prompt fully generated this video including audio!\nprompt and proofs in 🧵\n\nThanks @twoclipping",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2103366744022872065/img/DI2sT7OLDNunuYDy.jpg",
+    "duration": 14
+  },
+  {
+    "id": "2110150043596681673",
+    "handle": "patch_gg",
+    "name": "patch",
+    "url": "https://x.com/patch_gg/status/2110150043596681673",
+    "date": "2026-10-13",
+    "title": "Same game prompt: Gemini 4 Argon vs Muse Wonder",
+    "titleZh": "同一游戏提示词：Gemini 4 Argon 对比 Muse Wonder",
+    "category": "comparison",
+    "models": [
+      "Gemini 4 Argon",
+      "Muse Wonder"
+    ],
+    "text": "Gemini 4 Argon vs Muse Wonder in game development.\n\nSame prompt, two completely different games.",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110140491388108800/img/Mu2_ZKYLJ13lgRWk.jpg",
+    "duration": 24.5
+  },
+  {
+    "id": "2113687234448875770",
+    "handle": "adxtyahq",
+    "name": "aditya",
+    "url": "https://x.com/adxtyahq/status/2113687234448875770",
+    "date": "2026-10-23",
+    "title": "Voxel pagoda island: Kimi K3.1 Pro vs Opus 5.5",
+    "titleZh": "体素宝塔浮岛：Kimi K3.1 Pro 对比 Opus 5.5",
+    "category": "comparison",
+    "models": [
+      "Kimi K3.1 Pro",
+      "Opus 5.5"
+    ],
+    "text": "KIMI K3.1 PRO IS LITERALLY A CHEAPER AND FASTER VERSION OF OPUS 5.5\n\ni asked both models to build the exact same animated voxel 3D pagoda island\n\n- intricate pagoda architecture, bridges and floating islands\n- detailed trees and tiny environmental elements\n- Kimi: 15 mins vs",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113686585690746880/img/QS7Bhj2sKrFQ6e6v.jpg",
+    "duration": 30
+  },
+  {
+    "id": "2108567673890111948",
+    "handle": "LexnLin",
+    "name": "Leon Lin",
+    "url": "https://x.com/LexnLin/status/2108567673890111948",
+    "date": "2026-10-09",
+    "title": "Paper-craft style animation",
+    "titleZh": "纸艺风格动画",
+    "category": "motion",
+    "models": [
+      "Opus 5.5"
+    ],
+    "text": "An animation made with paper by Claude Opus 5.5",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108567268820987904/img/1Rv5Fb9y9OaV32Wj.jpg",
+    "duration": 30
+  },
+  {
+    "id": "2107777623958917545",
+    "handle": "exploraX_",
+    "name": "m0h",
+    "url": "https://x.com/exploraX_/status/2107777623958917545",
+    "date": "2026-10-07",
+    "title": "Arabian palace 3D web experience in three.js",
+    "titleZh": "Three.js 阿拉伯宫殿 3D 网页体验",
+    "category": "3d",
+    "models": [
+      "Opus 5.5"
+    ],
+    "text": "🚨 Opus 5.5 just built this in one hour.\n\na full Arabian luxury house 3D experience built with Three.js.\n\nthe crazy part? i didn’t give it a single reference image. just the prompt.\n\nand it still came up with the entire visual direction from scratch.\n\nview it here: https://moh4696.github.io/qasr-al-noor/",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2107775797662494720/img/r5lolegK92aPiOg2.jpg",
+    "duration": 149.8
+  },
+  {
+    "id": "2106151100214825288",
+    "handle": "TimJayas",
+    "name": "Tim Jayas",
+    "url": "https://x.com/TimJayas/status/2106151100214825288",
+    "date": "2026-10-02",
+    "title": "Single-prompt three.js scene",
+    "titleZh": "一条提示词生成的 Three.js 场景",
+    "category": "3d",
+    "models": [
+      "Sonnet 5.5"
+    ],
+    "text": "Opus 5.5 is so good that people keep forgetting how great Sonnet 5.5 actually is\n\nthis is a single prompt output from Sonnet 5.5 using three.js\n\nalso Sonnet 5.5 has the same cost as GPT-6.1 Sol",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2106148900918939648/img/BGXa5zZ905HBuRX4.jpg",
+    "duration": 65.5
+  },
+  {
+    "id": "2103418664854622583",
+    "handle": "zheke",
+    "name": "Eugene C",
+    "url": "https://x.com/zheke/status/2103418664854622583",
+    "date": "2026-09-25",
+    "title": "Open-ended motion design showcase",
+    "titleZh": "开放式提示下的动效设计展示",
+    "category": "motion",
+    "models": [
+      "Opus 5.5"
+    ],
+    "text": "Prompt: Hello Opus 5.5 show me what an incredible motion designer you are.",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2103410712672362496/img/2kYVCf-MSUHsrL34.jpg",
+    "duration": 15,
+    "prompt": "Hello Opus 5.5 show me what an incredible motion designer you are.",
+    "promptUrl": "https://x.com/zheke/status/2103418664854622583"
   }
 ]
