@@ -2539,5 +2539,122 @@
     "duration": 15,
     "prompt": "Hello Opus 5.5 show me what an incredible motion designer you are.",
     "promptUrl": "https://x.com/zheke/status/2103418664854622583"
+  },
+  {
+    "id": "2105245039521628213",
+    "handle": "JakubAntowski",
+    "name": "Jacob",
+    "url": "https://x.com/JakubAntowski/status/2105245039521628213",
+    "date": "2026-09-30",
+    "title": "Interactive 3D felt character in three.js: GPT 6.1 Sol vs Opus 5.5",
+    "titleZh": "Three.js 交互式毛毡角色：GPT 6.1 Sol 对比 Opus 5.5",
+    "category": "comparison",
+    "models": [
+      "GPT 6.1 Sol",
+      "Opus 5.5"
+    ],
+    "text": "Same prompt. Same reference image. Two models.  \n\nGPT 6.1 Sol vs Opus 5.5 — build a live, interactive 3D felt character in Three.js. No models, no textures, just code + shaders.  \n\nLeft: GPT 6.1 Sol Right: Opus 5.5  \n\nWhich one nails it? 👇\nSpoiler: one of them won every category.",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2105244326003404800/img/h1JniFPlHQGupKsI.jpg",
+    "duration": 19.8
+  },
+  {
+    "id": "2113206743484297681",
+    "handle": "isagi1000x",
+    "name": "Isagii",
+    "url": "https://x.com/isagi1000x/status/2113206743484297681",
+    "date": "2026-10-22",
+    "title": "Interactive 3D rooftop glass pool: Opus 5.5 vs Opus 5",
+    "titleZh": "交互式 3D 屋顶玻璃泳池：Opus 5.5 对比 Opus 5",
+    "category": "comparison",
+    "models": [
+      "Opus 5.5",
+      "Opus 5"
+    ],
+    "text": "ANTHROPIC COOKED WITH CLAUDE OPUS 5.5 \n\nSame prompt. Same High effort setting. Two models tasked with building an interactive 3D rooftop glass pool from scratch using code.\n\nThe results?\n\n**Claude Opus 5.5**\n→ 68 minutes\n→ ~$14 in cost\n→ More detailed visuals\n\n**Claude Opus 5**\n→ 128 minutes\n→ ~$68 in cost\n\nThat's nearly **2x faster and almost 5x cheaper.**\n\nAnd the details? Just look at the buildings in the background.\n\nBetter visuals. Less time. A fraction of the cost.\n\nIf these results hold up across more tasks, Opus 5.5 is a serious upgrade for AI-powered coding.\n\nAnthropic didn't come to play. \n\nprompt in cs.👇",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113206261848141824/img/2-Yfb9jlu9X1QhLS.jpg",
+    "duration": 30
+  },
+  {
+    "id": "2113868700545847697",
+    "handle": "ItsmeAjayKV",
+    "name": "AJ",
+    "url": "https://x.com/ItsmeAjayKV/status/2113868700545847697",
+    "date": "2026-10-24",
+    "title": "Procedural three.js lighthouse: Kimi K3.1 Pro vs DeepSeek V4.1 Flash",
+    "titleZh": "Three.js 程序化灯塔场景：Kimi K3.1 Pro 对比 DeepSeek V4.1 Flash",
+    "category": "comparison",
+    "models": [
+      "Kimi K3.1 Pro",
+      "DeepSeek V4.1 Flash"
+    ],
+    "text": "Kimi-K3.1-Pro vs DeepSeek-v4.1-Flash-1017 !\n\nI ran the same case as shown in quoted post through latest DeepSeek-v4.1-Flash-1017 !!\n\nFor a model very very small compared to Kimi-K3.1-pro, the difference is huge. \n\nAlso v4.1-flash-1017 is in a disadvantage here, it made the entire thing without any tool calls, it was also without any harness, took around 12 minutes. \n\nWhile Kimi made this with full tools and agentic loop, high thinking, and took even more time.\n\nNow deepseek has some issues, but it's ok, compared to issues i got with Kimi it's nothing.\n\nKimi main issue was it created shadow for light beams, it drew it as a cone and global lighting saw it as a object, which i had to ask it again to fix, so it took 3 turn to create final product.\n\nGuess DeepSeek will continue to be the kind in 3D gen for a while !",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2113867286759325696/img/d5KWvbs0a_Y7nWCF.jpg",
+    "duration": 48.9
+  },
+  {
+    "id": "2108845317122900188",
+    "handle": "chetanankola",
+    "name": "Chetan Ankola",
+    "url": "https://x.com/chetanankola/status/2108845317122900188",
+    "date": "2026-10-10",
+    "title": "Petal Quay: anime island with stylized water in three.js",
+    "titleZh": "Petal Quay：Three.js 动漫风海岛与水面",
+    "category": "3d",
+    "models": [
+      "Opus 5.5"
+    ],
+    "text": "Another banger Threejs 3D Experience this time cooked with Opus 5.5  - this runs in browser smoothly! \n\nIts called Petal Quay \n\nA Glitchy anime character awaits endlessly on what seems like a boat stop island surrounded by insanely gorgeous water - there is lot more detail \n\nyou can complete the story on why she is glitchy and what she is waiting for...",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108844812518739968/img/g5JJG6C5h_QFEnq6.jpg",
+    "duration": 37.5
+  },
+  {
+    "id": "2103919236653428985",
+    "handle": "AndreiProvkin",
+    "name": "Andrei Provkin",
+    "url": "https://x.com/AndreiProvkin/status/2103919236653428985",
+    "date": "2026-09-26",
+    "title": "Fully procedural three.js world with sound, no downloaded assets",
+    "titleZh": "全程序化 Three.js 世界（含音效，零外部素材）",
+    "category": "3d",
+    "models": [
+      "Opus 5.5"
+    ],
+    "text": "Continuing the experiment: the most complex fully procedural world I can get out of three.js. Zero downloaded assets, sound included.\n\nThis time the lead is Opus 5.5.\n\nOne prompt + a reference image → a plan. Then I kicked off 3 plan steps by hand. Never asked it to fix anything. What you see is the first pass, zero correction rounds.\n\n3h36m active · 445 requests · +5,010 lines · ~$60 at API pricing\n\nReference in the replies 👇\n\n#threejs #tsl",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2103918099665698816/img/BGdQtRiwJ38lf0wo.jpg",
+    "duration": 68.4
+  },
+  {
+    "id": "2108242454105251921",
+    "handle": "flxrnc",
+    "name": "Florence",
+    "url": "https://x.com/flxrnc/status/2108242454105251921",
+    "date": "2026-10-08",
+    "title": "Seamless 14-second UI motion loop in Canvas 2D",
+    "titleZh": "Canvas 2D 绘制的 14 秒无缝 UI 动效循环",
+    "category": "motion",
+    "models": [
+      "Opus 5.5"
+    ],
+    "text": "opus 5.5 is insane for motion design\n\nit made every frame of this 14s UI loop in code from one prompt\n\nno editor. no hand-keyframes.\n\ni'm sharing the full prompt + every follow-up for free\n\nsteal it and swap the beats for your product ↓\n\n<inputs>\nGive me:\n\n* canvas color\n* shape color\n* accent color\n* shape radius\n* fonts\n* the states the shape should morph through\n\nUse hex codes, seconds, damping ratios and pixel sizes instead of adjectives.\n</inputs>\n\n<direction>\nMake a 14 second, 1440x1440, 60fps seamless UI motion loop.\n\nOne shape, zero cuts.\n\nThe shape morphs from state to state and is never replaced.\n\nEach state fills 50% of the frame.\n\nThe camera starts on the beat and settles slower than the shape.\n\nUse closed-form springs.\n\nShape damping 0.72, settle time 0.35s.\nCamera damping 1.0, settle time 0.6s.\n\nContent swaps use 12px blur and fade over 0.15s.\n\nThe cursor tip stays locked to whatever it drags.\n</direction>\n\n<structure>\nUse a 0.5s beat grid.\n\n0.0 - pixel mascot idles\n1.0 - mascot squashes into play button\n1.5 - loader\n2.0 - check draws\n2.5 - timeline scrub\n4.0 - keyframe stretches past the end and snaps back\n5.0 - bezier editor\n7.0 - counter rolls F 000 to F 840\n8.5 - render bar fills\n10.0 - command palette types \"export mp4\"\n11.0 - toast says \"840 frames rendered\"\n12.0 - toast shrinks back into the mascot\n\nThe last frame must be the first frame.\n</structure>\n\n<build>\nWrite one HTML file with Canvas 2D.\n\nwindow.renderAt(t) must be a pure function of time.\n\nNo Math.random.\nNo clock.\nNo carried state.\n\n?t= must freeze the exact moment.\n\nRender every frame from renderAt(frame / 60).\n\nUse 4 subframes for motion blur.\n\nEncode to H.264 at 60fps.\n</build>\n\n<gotchas>\nFix the cursor jump at the loop wrap with:\n\nt - 14*floor(t/14)\n\nDo not cross-fade orange into ink.\n\nUse a ripple from the center at 1.5s and from the click point at 12.0s.\n\nRoll word swaps vertically.\n\nStart draw-on after blur-in.\n\nAim the cursor at where the target will be when it lands.\n\nKeep cursor speed under 65 px/frame.\n</gotchas>\n\n<start>\nFirst show me the storyboard.\n\nThen write the code.\n\nAfter the first render, check 5 frames around every beat and fix the issues before the final render.\n</start>",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2108230167030095872/img/gUVNHt1Q4JRlknQB.jpg",
+    "duration": 14,
+    "prompt": "<inputs>\nGive me:\n\n* canvas color\n* shape color\n* accent color\n* shape radius\n* fonts\n* the states the shape should morph through\n\nUse hex codes, seconds, damping ratios and pixel sizes instead of adjectives.\n</inputs>\n\n<direction>\nMake a 14 second, 1440x1440, 60fps seamless UI motion loop.\n\nOne shape, zero cuts.\n\nThe shape morphs from state to state and is never replaced.\n\nEach state fills 50% of the frame.\n\nThe camera starts on the beat and settles slower than the shape.\n\nUse closed-form springs.\n\nShape damping 0.72, settle time 0.35s.\nCamera damping 1.0, settle time 0.6s.\n\nContent swaps use 12px blur and fade over 0.15s.\n\nThe cursor tip stays locked to whatever it drags.\n</direction>\n\n<structure>\nUse a 0.5s beat grid.\n\n0.0 - pixel mascot idles\n1.0 - mascot squashes into play button\n1.5 - loader\n2.0 - check draws\n2.5 - timeline scrub\n4.0 - keyframe stretches past the end and snaps back\n5.0 - bezier editor\n7.0 - counter rolls F 000 to F 840\n8.5 - render bar fills\n10.0 - command palette types \"export mp4\"\n11.0 - toast says \"840 frames rendered\"\n12.0 - toast shrinks back into the mascot\n\nThe last frame must be the first frame.\n</structure>\n\n<build>\nWrite one HTML file with Canvas 2D.\n\nwindow.renderAt(t) must be a pure function of time.\n\nNo Math.random.\nNo clock.\nNo carried state.\n\n?t= must freeze the exact moment.\n\nRender every frame from renderAt(frame / 60).\n\nUse 4 subframes for motion blur.\n\nEncode to H.264 at 60fps.\n</build>\n\n<gotchas>\nFix the cursor jump at the loop wrap with:\n\nt - 14*floor(t/14)\n\nDo not cross-fade orange into ink.\n\nUse a ripple from the center at 1.5s and from the click point at 12.0s.\n\nRoll word swaps vertically.\n\nStart draw-on after blur-in.\n\nAim the cursor at where the target will be when it lands.\n\nKeep cursor speed under 65 px/frame.\n</gotchas>\n\n<start>\nFirst show me the storyboard.\n\nThen write the code.\n\nAfter the first render, check 5 frames around every beat and fix the issues before the final render.\n</start>",
+    "promptUrl": "https://x.com/flxrnc/status/2108242454105251921"
+  },
+  {
+    "id": "2103452506680393979",
+    "handle": "majidmanzarpour",
+    "name": "Majid Manzarpour",
+    "url": "https://x.com/majidmanzarpour/status/2103452506680393979",
+    "date": "2026-09-25",
+    "title": "Running cheetah in three.js, pure code",
+    "titleZh": "纯代码 Three.js 奔跑猎豹",
+    "category": "3d",
+    "models": [
+      "Opus 5.5"
+    ],
+    "text": "opus 5.5, cheetah in @threejs, pure code\n\ndemo link below 👇",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2103452267542179840/img/CEWGzmZWOjDWHnjZ.jpg",
+    "duration": 154.3
   }
 ]
