@@ -13,5 +13,155 @@
     "id": "2113785039158669347",
     "handle": "ItsmeAjayKV",
     "reason": "same lighthouse already shown in the creator's comparison post"
+  },
+  {
+    "id": "2115779810932728259",
+    "handle": "rewind02",
+    "reason": "workflow writeup quoting an already-listed piece; own clip is 4s"
+  },
+  {
+    "id": "2115049716211744941",
+    "handle": "rewind02",
+    "reason": "repost of another developer's work (dev: xikhar)"
+  },
+  {
+    "id": "2115410672561377688",
+    "handle": "rewind02",
+    "reason": "templated workflow post, authorship unclear"
+  },
+  {
+    "id": "2107063404691132663",
+    "handle": "rewind02",
+    "reason": "article link, no video"
+  },
+  {
+    "id": "2115868797915537529",
+    "handle": "rewind02",
+    "reason": "AI video generation (Pika)"
+  },
+  {
+    "id": "2115442602145112202",
+    "handle": "rewind02",
+    "reason": "AI video generation (Pika)"
+  },
+  {
+    "id": "2114734126444020060",
+    "handle": "rewind02",
+    "reason": "AI video generation (Kling) tool promo"
+  },
+  {
+    "id": "2115933342218498211",
+    "handle": "minchoi",
+    "reason": "AI video generation (Pika)"
+  },
+  {
+    "id": "2115873209132130548",
+    "handle": "minchoi",
+    "reason": "AI video generation (Pika)"
+  },
+  {
+    "id": "2115864898475585549",
+    "handle": "socialwithaayan",
+    "reason": "AI video generation (Pika)"
+  },
+  {
+    "id": "2115752895534751946",
+    "handle": "socialwithaayan",
+    "reason": "design tool promo"
+  },
+  {
+    "id": "2115467907492884736",
+    "handle": "socialwithaayan",
+    "reason": "sales tool promo"
+  },
+  {
+    "id": "2115057474600653185",
+    "handle": "socialwithaayan",
+    "reason": "research tool promo"
+  },
+  {
+    "id": "2115721297649074224",
+    "handle": "luckeyfaraday",
+    "reason": "follow-up of the same Mickey test"
+  },
+  {
+    "id": "2115867607978971489",
+    "handle": "luckeyfaraday",
+    "reason": "news GIF, not a piece"
+  },
+  {
+    "id": "2115417416800813545",
+    "handle": "marcthecreatorr",
+    "reason": "same supercar prompt; four-model comparison listed instead"
+  },
+  {
+    "id": "2115386626775953881",
+    "handle": "maxt3chno",
+    "reason": "tips for third-party animation tools, not model-made"
+  },
+  {
+    "id": "2114669271246614698",
+    "handle": "maxt3chno",
+    "reason": "tips for third-party animation tools, not model-made"
+  },
+  {
+    "id": "2115287446783222267",
+    "handle": "kevin_t_ngo",
+    "reason": "does not say how it was made"
+  },
+  {
+    "id": "2114957927429861538",
+    "handle": "untitled_sys",
+    "reason": "no AI model named"
+  },
+  {
+    "id": "2102932763750084797",
+    "handle": "xikhar",
+    "reason": "earlier iteration of an already-listed project"
+  },
+  {
+    "id": "2110530184550236232",
+    "handle": "higgsfield_ai",
+    "reason": "AI video generation platform (Higgsfield)"
+  },
+  {
+    "id": "2115068041428140175",
+    "handle": "kimuai08",
+    "reason": "article link, no video"
+  },
+  {
+    "id": "2104424611010232366",
+    "handle": "RoundtableSpace",
+    "reason": "aggregator repost of the showreel template"
+  },
+  {
+    "id": "2103517696038191220",
+    "handle": "LeonKohli",
+    "reason": "another run of the showreel template prompt"
+  },
+  {
+    "id": "2103510776690479597",
+    "handle": "fionntobin",
+    "reason": "another run of the showreel template prompt"
+  },
+  {
+    "id": "2103614667038052364",
+    "handle": "manuelogomigo",
+    "reason": "another run of the showreel template prompt"
+  },
+  {
+    "id": "2103832593355686104",
+    "handle": "ndhabarde11",
+    "reason": "another run of the showreel template prompt"
+  },
+  {
+    "id": "2103578285892649220",
+    "handle": "madebyjmayala",
+    "reason": "low-effort test of the showreel template"
+  },
+  {
+    "id": "2113458401309020202",
+    "handle": "ChrisGPT",
+    "reason": "pre-release news post with a short low-res demo"
   }
 ]

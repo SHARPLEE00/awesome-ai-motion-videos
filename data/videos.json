@@ -2656,5 +2656,139 @@
     "text": "opus 5.5, cheetah in @threejs, pure code\n\ndemo link below 👇",
     "thumb": "https://pbs.twimg.com/amplify_video_thumb/2103452267542179840/img/CEWGzmZWOjDWHnjZ.jpg",
     "duration": 154.3
+  },
+  {
+    "id": "2114815615156486362",
+    "handle": "kevin_t_ngo",
+    "name": "Kevin Ngo",
+    "url": "https://x.com/kevin_t_ngo/status/2114815615156486362",
+    "date": "2026-10-26",
+    "title": "Ants crawling across Anthropic's S-1, frames and music in code",
+    "titleZh": "蚂蚁爬过 Anthropic 的 S-1 招股书（画面与音乐全由代码生成）",
+    "category": "motion",
+    "models": [
+      "Opus 5.5"
+    ],
+    "text": "Ants crawling on Anthropic's S-1\n\nMade with Claude Opus 5.5. Music and every frame, written in code",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2114812810744229888/img/9vmmejTQ3QrQvB8v.jpg",
+    "duration": 120
+  },
+  {
+    "id": "2115862732637458763",
+    "handle": "maxt3chno",
+    "name": "Max",
+    "url": "https://x.com/maxt3chno/status/2115862732637458763",
+    "date": "2026-10-29",
+    "title": "Realistic three.js water shader combined from three projects",
+    "titleZh": "融合三个项目的 Three.js 写实水面着色器",
+    "category": "3d",
+    "models": [
+      "Opus 5.5",
+      "GPT-6 Astra"
+    ],
+    "text": "Combined 3 Three.js projects into the most realistic water shader on the web\n\nbillions of tokens\nhours of Opus 5.5 and Astra work\n\nshould I open-source the code?",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115862215823605761/img/lwdwnC2QFZjCNfdX.jpg",
+    "duration": 92.1
+  },
+  {
+    "id": "2115029810850193444",
+    "handle": "maxt3chno",
+    "name": "Max",
+    "url": "https://x.com/maxt3chno/status/2115029810850193444",
+    "date": "2026-10-27",
+    "title": "Blender scene via MCP: GPT-6.1 Sol vs GPT-6.1 Terra",
+    "titleZh": "Blender MCP 建模对比：GPT-6.1 Sol 对比 GPT-6.1 Terra",
+    "category": "comparison",
+    "models": [
+      "GPT-6.1 Sol",
+      "GPT-6.1 Terra"
+    ],
+    "text": "I don't even know why I tried GPT 6.1 Terra in Blender\n\n- left output: 23 minutes and 1%\n- right output: 6 minutes and 0%\n\none is Sol 6.1 Extra High, the other is Terra 6.1 Extra High\n\nthe choice is obvious = I'd never trade quality for speed",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115029522726760448/img/tvg51XP7jTF0EfrU.jpg",
+    "duration": 15
+  },
+  {
+    "id": "2115444940448702704",
+    "handle": "marcthecreatorr",
+    "name": "Marcel",
+    "url": "https://x.com/marcthecreatorr/status/2115444940448702704",
+    "date": "2026-10-28",
+    "title": "Interactive 3D supercar: GPT-6.1 Terra vs Sonnet 5.5 vs GPT-6.1 Sol vs Kimi K3.1 Pro",
+    "titleZh": "交互式 3D 超跑：GPT-6.1 Terra、Sonnet 5.5、GPT-6.1 Sol、Kimi K3.1 Pro 四模型对比",
+    "category": "comparison",
+    "models": [
+      "GPT-6.1 Terra",
+      "Sonnet 5.5",
+      "GPT-6.1 Sol",
+      "Kimi K3.1 Pro"
+    ],
+    "text": "GPT 6.1 Terra vs Sonnet 5.5 vs GPT 6.1 sol vs Kimi K3.1 Pro \n\ngave all four frontier models the same prompt to build the same 3D supercar. \n\n> 6.1 Terra: 5 mins ~ $0.26\n> Sonnet: 29 mins ~ $5.22\n> 6.1 Sol: 25 mins ~ $1.88\n> Kimi: 1hr 15 mins ~ $3.38\n\nGPT 6.1 Terra is now the cheapest frontier model but it doesn’t seem like 3D coding is the kind of work the model was optimized for\n\nwhich of these would be your best pick?",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115444806155415552/img/qoNxuZ3iO0p16bZ-.jpg",
+    "duration": 24
+  },
+  {
+    "id": "2115459494163402987",
+    "handle": "luckeyfaraday",
+    "name": "Luckey Faraday",
+    "url": "https://x.com/luckeyfaraday/status/2115459494163402987",
+    "date": "2026-10-28",
+    "title": "3D Mickey Mouse from a one-line prompt: Opus 5.5 vs GPT-6.1 Terra",
+    "titleZh": "一句话生成 3D 米老鼠：Opus 5.5 对比 GPT-6.1 Terra",
+    "category": "comparison",
+    "models": [
+      "Opus 5.5",
+      "GPT-6.1 Terra"
+    ],
+    "text": "Opus 5.5 is in a completely different league.\n\nI gave it and GPT-6.1 Terra the same one-line prompt: recreate Mickey Mouse in 3D.\n\nTerra was 17x faster, 45x cheaper, and used 9x fewer tokens.\n\nAnd Opus STILL absolutely destroyed it in quality.\n\nSometimes you really do get what you pay for.",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2115459473678413824/img/inIYi3SJPhG4pgS1.jpg",
+    "duration": 12
+  },
+  {
+    "id": "2110059840957768027",
+    "handle": "sundarpichai",
+    "name": "Sundar Pichai",
+    "url": "https://x.com/sundarpichai/status/2110059840957768027",
+    "date": "2026-10-13",
+    "title": "Pixel exploded-view animation built in Blender from a raw CAD file",
+    "titleZh": "从原始 CAD 文件在 Blender 中生成的 Pixel 手机爆炸视图动画",
+    "category": "motion",
+    "models": [
+      "Gemini 4 Argon"
+    ],
+    "text": "Some great use cases from Googlers building with Gemini 4 Argon 🧵\n\nIt has a much stronger grasp of coding and multi-step tool use - starting from a raw Pixel CAD file in Google Antigravity, Argon created this exploded-view animation, lighting, camera choreography, and audio through Blender MCP.\n\nIt ran 1,000 rounds of iterative loops to check its own renders and refine the code along the way.",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110052683554095104/img/V72SGiKyw51MMIEd.jpg",
+    "duration": 19.2
+  },
+  {
+    "id": "2103352533657719230",
+    "handle": "aipulseda1ly",
+    "name": "aipulsedaily",
+    "url": "https://x.com/aipulseda1ly/status/2103352533657719230",
+    "date": "2026-09-25",
+    "title": "Survival game on an eroded island with 44,000 procedural trees in three.js",
+    "titleZh": "Three.js 生存游戏：侵蚀地形海岛与 4.4 万棵程序化树木",
+    "category": "interactive",
+    "models": [
+      "Opus 5.5"
+    ],
+    "text": "Opus 5.5 has once again destroyed my expectations for games and 3D modeling.\n\nA full survival game like The Forest, in three.js, in 1 day of continual work.\n\nA 2 km island carved by simulated erosion. 44,000 trees, every one generated in code and wrapped in real photoscanned bark. Six real Pacific Northwest species.\n\nThe sun and moon sit where they really would at 49 degrees north in late September. Thunder arrives late because it travels at the speed of sound. Wolves stalk at dusk, circle the fire at night and back off from a torch.\n\nClaude Code split the world between waves of agents, one per domain, and critic agents that never touched the build checked the renders against real photos.\n\n62 seconds of 4K, 1,881 frames, rendered one by one out of the game itself.\n\nThe wolf is still the weakest thing in it and it doesnt hold 60 fps yet. I ran out of Claude usage before the realism pass finished.\n\nIts not even done.",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2103351926028910592/img/NEsYno369oeZsR8i.jpg",
+    "duration": 62.7
+  },
+  {
+    "id": "2110040063656812976",
+    "handle": "ai_for_success",
+    "name": "AshutoshShrivastava",
+    "url": "https://x.com/ai_for_success/status/2110040063656812976",
+    "date": "2026-10-13",
+    "title": "Island with a hut and a drivable sailboat, water physics in the browser",
+    "titleZh": "可驾驶帆船的小岛场景（含水面物理）",
+    "category": "interactive",
+    "models": [
+      "Gemini 4 Argon"
+    ],
+    "text": "Google just dropped Gemini 4 Argon , GDM’s most capable model yet.  thanks to the GDM team for giving me early access.\n\nHere are few things I tested with Gemini 4 Argon over the last few days \n\nI asked it to build a small island with a hut and a sailboat you can actually control and drive. The physics, water, and little details are amazing. Took a few prompts to get here, but I love the result.\n\n1/4",
+    "thumb": "https://pbs.twimg.com/amplify_video_thumb/2110039142621233152/img/KwVzyGa2drZKOpWN.jpg",
+    "duration": 98.8
   }
 ]
